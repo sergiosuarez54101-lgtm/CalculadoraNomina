@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Calculadora de Nómina</string>
+    <string name="titulo_app">Calculadora de Nómina</string>
+    <string name="salario_basico_label">Salario básico mensual</string>
+    <string name="horas_diurnas_label">Horas extra diurnas</string>
+    <string name="horas_nocturnas_label">Horas extra nocturnas</string>
+    <string name="es_dominical_label">Horas extra en domingo o festivo</string>
+    <string name="transporte_empresa_label">La empresa suministra el transporte</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="btn_limpiar">Limpiar</string>
+
+    <string name="seccion_devengado">DEVENGADO</string>
+    <string name="seccion_deducciones">DEDUCCIONES</string>
+    <string name="concepto_valor_hora">Valor hora ordinaria</string>
+    <string name="concepto_salario_basico">Salario básico</string>
+    <string name="concepto_horas_extra">Horas extra</string>
+    <string name="concepto_aux_transporte">Auxilio de transporte</string>
+    <string name="concepto_total_devengado">Total devengado</string>
+    <string name="concepto_salud">Salud (4%)</string>
+    <string name="concepto_pension">Pensión (4%)</string>
+    <string name="concepto_fondo_solidaridad">Fondo de Solidaridad (1%)</string>
+    <string name="concepto_total_deducciones">Total deducciones</string>
+    <string name="concepto_salario_neto">Salario neto a recibir</string>
+
+    <string name="rango_1_desc">Rango 1: Con derecho a auxilio de transporte</string>
+    <string name="rango_2_desc">Rango 2: Sin auxilio de transporte ni Fondo de Solidaridad</string>
+    <string name="rango_3_desc">Rango 3: Aporta al Fondo de Solidaridad Pensional</string>
+    <string name="img_rango_desc">Imagen ilustrativa según rango salarial</string>
+
+    <string name="error_salario_invalido">Ingrese un salario válido</string>
+    <string name="error_salario_minimo">El salario no puede ser inferior al mínimo ($ 1.750.905)</string>
+    <string name="error_horas_negativas">Las horas extra deben ser un número mayor o igual a cero</string>
+    <string name="error_exceso_horas">El total de horas extra no puede superar 48 en el mes</string>
+</resources>
